@@ -1,0 +1,9 @@
+{
+  "name": "school-field-trip-script",
+  "version": "0.0.0",
+  "description": "SchoolFieldTripScript",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
